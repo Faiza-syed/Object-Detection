@@ -1,2 +1,2 @@
 # Object-Detection
-Object detection using python using webcam and as well as by uploading any image
+Object detection using python using webcam as well as by uploading any image
